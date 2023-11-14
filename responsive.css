@@ -1,0 +1,67 @@
+.services-container{
+    flex-direction:column ;
+    margin: auto;
+}
+header{
+   flex-direction: column; 
+   margin:auto;
+}
+#clients{
+    overflow: hidden;
+}
+.hero{
+    flex-direction: column;
+    /* height: 400px; */
+    
+    text-align: center;
+    height: 415px;
+    margin: 20px;
+    
+    
+}
+.navbar ul li a{
+    font-size: 1rem;
+    padding: 10px;
+}
+.hero-heading{
+    font-size: 2.5rem;
+    padding-block: 5px;
+
+}
+.hero p{
+    font-size: 1rem;
+}
+
+header{
+   height: 110px;
+}
+.clients-box{
+    flex-wrap: wrap;
+
+  
+    
+}
+.client-item img{
+    height: 80px;
+}
+.box{
+    padding: 20x;
+
+}
+.skype img{
+    height: 40px;
+}
+.box img{
+    max-height: 90px;
+}
+
+.form-group input{
+
+
+    width: 250px;
+}
+.form-group textarea{
+    width: 250px;
+    
+    
+}
